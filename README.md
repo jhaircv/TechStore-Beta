@@ -34,7 +34,7 @@ Tienda virtual ficticia desarrollada en PHP y MySQL. Permite gestionar productos
 
 - **Cliente:**  
   Usuario: `jhair`  
-  Contraseña: `123456` (o la que corresponda al hash en la base de datos)
+  Contraseña: `123` (o la que corresponda al hash en la base de datos)
 
 - **Administrador:**  
   Usuario: `admin`  
